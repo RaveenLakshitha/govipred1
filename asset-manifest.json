@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RaveenLakshitha/govipred1.git/static/css/main.e6c13ad2.css",
+    "main.js": "/RaveenLakshitha/govipred1.git/static/js/main.a1121707.js",
+    "index.html": "/RaveenLakshitha/govipred1.git/index.html",
+    "main.e6c13ad2.css.map": "/RaveenLakshitha/govipred1.git/static/css/main.e6c13ad2.css.map",
+    "main.a1121707.js.map": "/RaveenLakshitha/govipred1.git/static/js/main.a1121707.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a1121707.js"
+  ]
+}
